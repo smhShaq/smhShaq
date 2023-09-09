@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @smhShaq
-- 👀 I’m interested in ...AI,VPP's,
+- 👀 I’m interested in ...AI,Game Development, and creative developmental processes
 - 🌱 I’m currently learning ...machine learning 
 - 💞️ I’m looking to collaborate on ... Something beneficial 
 - 📫 How to reach me ...smhshaq@gmail.com
