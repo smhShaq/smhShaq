@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @smhShaq
-- 👀 I’m interested in ...AI,Game Development, and creative developmental processes
-- 🌱 I’m currently learning ...machine learning 
-- 💞️ I’m looking to collaborate on ... Something beneficial 
+- 👀 I’m interested in ...AI,Game Development, creative developmental processes, blockchain applications, the future of development. 
+- 🌱 I’m currently learning ...blockchain uses and implications, python, solidatiy, javascript, html,css.
+- 💞️ I’m looking to collaborate on anything that can bring value to the future.
 - 📫 How to reach me ...smhshaq@gmail.com
 
 <!---
