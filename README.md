@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Shaquille Kimbrough
+## Hello, I’m Shaquille Kimbrough
  ## About Me
 I'm an aspiring game developer and blockchain enthusiast. I'm self-taught in C++, Python, and JavaScript. I'm passionate about creating innovative games and blockchain solutions.
  ## Skills
