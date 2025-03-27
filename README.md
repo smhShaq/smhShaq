@@ -1,4 +1,4 @@
-Shaquille Kimbrough: Visionary Developer & Innovator
+##Shaquille Kimbrough: Visionary Developer & Innovator
 About Me
 Yo, I’m Shaquille—an emerging professional and visionary in the tech realm. I’m self-taught and driven by a passion that echoes the ancient wisdom of our forefathers. Every line of code I write is a step on my journey, a lesson in the art of creation, and a reflection of my relentless pursuit of mastery. I may be a student now, but my vision is clear: to transform the digital world with creativity, resilience, and innovation.
 
